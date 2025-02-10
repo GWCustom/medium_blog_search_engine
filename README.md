@@ -7,6 +7,8 @@ It contains code to search medium blog profiles for the most relevant blog posts
 ## Getting Started: 
 
 ```
+git clone https://github.com/GWCustom/medium_blog_search_engine.git && cd medium_blog_search_engine/
+
 python3 -m venv venv 
 
 source venv/bin/activate

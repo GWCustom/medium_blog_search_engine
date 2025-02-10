@@ -2,8 +2,21 @@
 
 This repo is a supplement to the blog post found here: 
 
-
 It contains code to search medium blog profiles for the most relevant blog posts, given some search query. 
+
+## Getting Started: 
+
+```
+python3 -m venv venv 
+
+source venv/bin/activate
+
+pip install -r requirements.txt
+
+python main.py
+
+```
+
 
 To try this out with a differet blog, just edit the BASE_URL and QUERY values in PARAMS.py. 
 

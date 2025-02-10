@@ -1,2 +1,14 @@
-# medium_blog_search_engine
-Some miniature search-engine examples from our blog post
+# Medium Blog Search Engine
+
+This repo is a supplement to the blog post found here: 
+
+
+It contains code to search medium blog profiles for the most relevant blog posts, given some search query. 
+
+To try this out with a differet blog, just edit the BASE_URL and QUERY values in PARAMS.py. 
+
+This code is meant to be neither complete, nor exhaustive. However it is meant to be informative and explanatory. 
+
+Feel free to try it out, use this code in any applications you like, and always reach out with any questions or feedback! 
+
+~ GWC ~ 
